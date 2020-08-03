@@ -5,16 +5,16 @@ This is a curated list of all my posts on LinkedIn regarding Data Science, which
 ##### Last Updated on: 3rd Aug 2020 (Day 32)
 --------------
 --------------
-### Day 0: Introducing the Series
+### > Day 0: Introducing the Series
 Link: https://www.linkedin.com/posts/chayankathuria_machinelearning-ml-data-activity-6684428395431936000-YrK3
 -------
-### Day 1: Optimization
+### > Day 1: Optimization
 Link: https://www.linkedin.com/posts/chayankathuria_machinelearning-datascience-ml-activity-6684763368823304193-yyQf
 -------
-### Day 2: OLS (Ordinary Least Squares)
+### > Day 2: OLS (Ordinary Least Squares)
 Link: https://www.linkedin.com/posts/chayankathuria_datascience-machinelearning-ml-activity-6685103630770593792-Dwxu
 -------
-### Day 3: Gradient Descent
+### > Day 3: Gradient Descent
 Link: https://www.linkedin.com/posts/chayankathuria_machinelearning-datascience-ml-activity-6685498835516620800-vfBH
 -------
 ### Day 4: Stochastic & Batch Gradient Descent
