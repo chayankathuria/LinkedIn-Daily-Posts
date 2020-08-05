@@ -2,7 +2,7 @@
 This is a curated list of all my posts on LinkedIn regarding Data Science, which I publish daily.
 --------------
 --------------
-##### Last Updated on: 4th Aug 2020 (Day 33)
+##### Last Updated on: 5th Aug 2020 (Day 34)
 --------------
 --------------
 ### > Day 0: Introducing the Series
@@ -106,5 +106,8 @@ Link: https://www.linkedin.com/posts/chayankathuria_datascience-machinelearning-
 -------
 ### > Day 33: Databases🗃️
 Link: https://www.linkedin.com/posts/chayankathuria_datascience-data-database-activity-6696354746384596992-3WN5
+-------
+### > Day 34: Exploratory Data Analysis📊
+Link: https://www.linkedin.com/posts/chayankathuria_datascience-machinelarning-activity-6696705042646396928-Fsha
 -------
 
