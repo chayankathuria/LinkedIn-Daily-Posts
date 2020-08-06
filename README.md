@@ -2,7 +2,7 @@
 This is a curated list of all my posts on LinkedIn regarding Data Science, which I publish daily.
 --------------
 --------------
-##### Last Updated on: 5th Aug 2020 (Day 34)
+##### Last Updated on: 6th Aug 2020 (Day 35)
 --------------
 --------------
 ### > Day 0: Introducing the Series
@@ -109,5 +109,8 @@ Link: https://www.linkedin.com/posts/chayankathuria_datascience-data-database-ac
 -------
 ### > Day 34: Exploratory Data Analysis📊
 Link: https://www.linkedin.com/posts/chayankathuria_datascience-machinelarning-activity-6696705042646396928-Fsha
+-------
+### > Day 35: Assumptions of Linear Regression
+Link: https://www.linkedin.com/posts/chayankathuria_datascience-machinelearning-activity-6697058984727244800-zH2G
 -------
 
