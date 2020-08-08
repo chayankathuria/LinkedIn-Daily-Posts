@@ -2,7 +2,7 @@
 This is a curated list of all my posts on LinkedIn regarding Data Science, which I publish daily.
 --------------
 --------------
-##### Last Updated on: 7th Aug 2020 (Day 36)
+##### Last Updated on: 8th Aug 2020 (Day 37)
 --------------
 --------------
 ### > Day 0: Introducing the Series
@@ -115,5 +115,8 @@ Link: https://www.linkedin.com/posts/chayankathuria_datascience-machinelearning-
 -------
 ### > Day 36: Multicollinearity
 Link: https://www.linkedin.com/posts/chayankathuria_machinelearning-datascience-activity-6697427886493827072-pX4P
+-------
+### > Day 37: Heteroscedasticity 
+Link: https://www.linkedin.com/posts/chayankathuria_datascience-machinelearning-statistics-activity-6697813832045260800-vthH
 -------
 
