@@ -2,7 +2,7 @@
 This is a curated list of all my posts on LinkedIn regarding Data Science, which I publish daily.
 --------------
 --------------
-##### Last Updated on: 9th Aug 2020 (Day 38)
+##### Last Updated on: 10th Aug 2020 (Day 39)
 --------------
 --------------
 ### > Day 0: Introducing the Series
@@ -121,4 +121,7 @@ Link: https://www.linkedin.com/posts/chayankathuria_datascience-machinelearning-
 -------
 ### > Day 38: Auto EDA
 Link: https://www.linkedin.com/posts/chayankathuria_python-datascience-machinelearning-activity-6698172053373153280-UNu_
+-------
+### > Day 39: *args and **kwargs in Python
+Link: https://www.linkedin.com/posts/chayankathuria_python-machinelearning-datascience-activity-6698516519900524544-5YA4
 -------
