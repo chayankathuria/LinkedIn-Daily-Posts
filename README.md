@@ -1,5 +1,5 @@
 # LinkedIn-Daily-Posts
-This is a curated list of all my posts on LinkedIn regarding Data Science, which I publish daily.
+This is a curated list of all my posts on LinkedIn regarding Data Science, which I publish daily. Hit the star if you like my work!
 --------------
 --------------
 ##### Last Updated on: 11th Aug 2020 (Day 40)
