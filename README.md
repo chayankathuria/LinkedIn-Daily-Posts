@@ -2,7 +2,7 @@
 This is a curated list of all my posts on LinkedIn regarding Data Science, which I publish daily. Hit the star if you like my work!
 --------------
 --------------
-##### Last Updated on: 12th Aug 2020 (Day 41)
+##### Last Updated on: 13th Aug 2020 (Day 42)
 --------------
 --------------
 ### > Day 0: Introducing the Series
@@ -130,4 +130,7 @@ Link: https://www.linkedin.com/posts/chayankathuria_datascience-machinelearning-
 -------
 ### > Day 41: QuickDA⚡
 Link: https://www.linkedin.com/posts/chayankathuria_datascience-python-machinelearning-activity-6699258527657074688-DKIc
+-------
+### > Day 42: Feature Engineering ⚙️🔧
+Link: https://www.linkedin.com/posts/chayankathuria_machinelearning-datascience-activity-6699616146213232640-aypj
 -------
