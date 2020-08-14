@@ -2,7 +2,7 @@
 This is a curated list of all my posts on LinkedIn regarding Data Science, which I publish daily. Hit the star if you like my work!
 --------------
 --------------
-##### Last Updated on: 13th Aug 2020 (Day 42)
+##### Last Updated on: 14th Aug 2020 (Day 43)
 --------------
 --------------
 ### > Day 0: Introducing the Series
@@ -133,4 +133,7 @@ Link: https://www.linkedin.com/posts/chayankathuria_datascience-python-machinele
 -------
 ### > Day 42: Feature Engineering ⚙️🔧
 Link: https://www.linkedin.com/posts/chayankathuria_machinelearning-datascience-activity-6699616146213232640-aypj
+-------
+### > Day 43: Why is Sample Variance divided by N-1?
+Link: https://www.linkedin.com/posts/chayankathuria_statistics-datascience-activity-6699974384473530368-UKmV
 -------
