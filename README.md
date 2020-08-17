@@ -137,3 +137,6 @@ Link: https://www.linkedin.com/posts/chayankathuria_machinelearning-datascience-
 ### > Day 43: Why is Sample Variance divided by N-1?
 Link: https://www.linkedin.com/posts/chayankathuria_statistics-datascience-activity-6699974384473530368-UKmV
 -------
+### > Day 46: Zipping up in Python 🤐
+Link: https://www.linkedin.com/posts/chayankathuria_python-datascience-activity-6701050979535634433-cFMZ
+-------
