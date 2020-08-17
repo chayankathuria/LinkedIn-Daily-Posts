@@ -140,6 +140,9 @@ Link: https://www.linkedin.com/posts/chayankathuria_statistics-datascience-activ
 ### > Day 44: Feature Scaling
 Link: https://www.linkedin.com/posts/chayankathuria_machinelearning-datascience-activity-6700339912673157120-bXM3
 -------
+### > Day 45: Inconsistencies in Data
+Link: https://www.linkedin.com/posts/chayankathuria_datascience-machinelearning-activity-6700682723532558336-44T3
+-------
 ### > Day 46: Zipping up in Python 🤐
 Link: https://www.linkedin.com/posts/chayankathuria_python-datascience-activity-6701050979535634433-cFMZ
 -------
