@@ -2,7 +2,7 @@
 This is a curated list of all my posts on LinkedIn regarding Data Science, which I publish daily. Hit the star if you like my work!
 --------------
 --------------
-##### Last Updated on: 14th Aug 2020 (Day 43)
+##### Last Updated on: 19th Aug 2020 (Day 48)
 --------------
 --------------
 ### > Day 0: Introducing the Series
@@ -148,4 +148,7 @@ Link: https://www.linkedin.com/posts/chayankathuria_python-datascience-activity-
 -------
 ### > Day 47: Handling Outliers
 Link: https://www.linkedin.com/posts/chayankathuria_datascience-machinelearning-activity-6701407026502791168-Mz-k
+-------
+### > Day 48: Bamboolib🎍
+Link: https://www.linkedin.com/posts/chayankathuria_python-machinelearning-datascience-activity-6701767896818868224-6y6K
 -------
