@@ -146,3 +146,6 @@ Link: https://www.linkedin.com/posts/chayankathuria_datascience-machinelearning-
 ### > Day 46: Zipping up in Python 🤐
 Link: https://www.linkedin.com/posts/chayankathuria_python-datascience-activity-6701050979535634433-cFMZ
 -------
+### > Day 47: Handling Outliers
+Link: https://www.linkedin.com/posts/chayankathuria_datascience-machinelearning-activity-6701407026502791168-Mz-k
+-------
