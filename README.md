@@ -2,7 +2,7 @@
 This is a curated list of all my posts on LinkedIn regarding Data Science, which I publish daily. Hit the star if you like my work!
 --------------
 --------------
-##### Last Updated on: 19th Aug 2020 (Day 48)
+##### Last Updated on: 22nd Aug 2020 (Day 51)
 --------------
 --------------
 ## > Day 0: Introducing the Series
@@ -151,4 +151,13 @@ Link: https://www.linkedin.com/posts/chayankathuria_datascience-machinelearning-
 -------
 ### > Day 48: Bamboolib🎍
 Link: https://www.linkedin.com/posts/chayankathuria_python-machinelearning-datascience-activity-6701767896818868224-6y6K
+-------
+### > Day 49: Categorical Variables Encoding
+Link: https://www.linkedin.com/posts/chayankathuria_machinelearning-datascience-activity-6702138026950213632-mW7H
+-------
+### > Day 50: Evaluation metrics
+Link: https://www.linkedin.com/posts/chayankathuria_datascience-machinelearning-activity-6702479977608228864-8bMt
+-------
+### > Day 51: Precision vs Recall vs F1
+Link: https://www.linkedin.com/posts/chayankathuria_datascience-machinelearning-activity-6702858273470627840--TWc
 -------
