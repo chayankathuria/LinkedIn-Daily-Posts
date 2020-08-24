@@ -2,7 +2,7 @@
 This is a curated list of all my posts on LinkedIn regarding Data Science, which I publish daily. Hit the star if you like my work!
 --------------
 --------------
-##### Last Updated on: 22nd Aug 2020 (Day 51)
+##### Last Updated on: 24th Aug 2020 (Day 53)
 --------------
 --------------
 ## > Day 0: Introducing the Series
@@ -160,4 +160,10 @@ Link: https://www.linkedin.com/posts/chayankathuria_datascience-machinelearning-
 -------
 ### > Day 51: Precision vs Recall vs F1
 Link: https://www.linkedin.com/posts/chayankathuria_datascience-machinelearning-activity-6702858273470627840--TWc
+-------
+### > Day 52: Is F1 Score good enough?
+Link: https://www.linkedin.com/posts/chayankathuria_datascience-machinelearning-activity-6703204220276936704-X4kh
+-------
+### > Day 53: What exactly is AUC ROC?
+Link: https://www.linkedin.com/posts/chayankathuria_datascience-machinelearning-activity-6703569196304994304-_k73
 -------
