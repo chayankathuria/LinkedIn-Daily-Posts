@@ -2,7 +2,7 @@
 This is a curated list of all my posts on LinkedIn regarding Data Science, which I publish daily. Hit the star if you like my work!
 --------------
 --------------
-##### Last Updated on: 24th Aug 2020 (Day 53)
+##### Last Updated on: 25th Aug 2020 (Day 54)
 --------------
 --------------
 ## > Day 0: Introducing the Series
@@ -164,6 +164,9 @@ Link: https://www.linkedin.com/posts/chayankathuria_datascience-machinelearning-
 ### > Day 52: Is F1 Score good enough?
 Link: https://www.linkedin.com/posts/chayankathuria_datascience-machinelearning-activity-6703204220276936704-X4kh
 -------
-### > Day 53: What exactly is AUC ROC?
+### > Day 53: What exactly is AUC ROC?🤔
 Link: https://www.linkedin.com/posts/chayankathuria_datascience-machinelearning-activity-6703569196304994304-_k73
+-------
+### > Day 54: What's Kappa Score?🙄
+Link: https://www.linkedin.com/posts/chayankathuria_datascience-machinelearning-activity-6703951753248854016-ceYh
 -------
