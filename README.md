@@ -2,7 +2,7 @@
 This is a curated list of all my posts on LinkedIn regarding Data Science, which I publish daily. Hit the star if you like my work!
 --------------
 --------------
-##### Last Updated on: 25th Aug 2020 (Day 54)
+##### Last Updated on: 28th Aug 2020 (Day 57)
 --------------
 --------------
 ## > Day 0: Introducing the Series
@@ -169,4 +169,13 @@ Link: https://www.linkedin.com/posts/chayankathuria_datascience-machinelearning-
 -------
 ### > Day 54: What's Kappa Score?🙄
 Link: https://www.linkedin.com/posts/chayankathuria_datascience-machinelearning-activity-6703951753248854016-ceYh
+-------
+### > Day 55: Micro & Macro Averaged Precision
+Link: https://www.linkedin.com/posts/chayankathuria_datascience-machinelearning-activity-6704304180292571136-lQb6
+-------
+### > Day 56: Precison @ K
+Link: https://www.linkedin.com/posts/chayankathuria_datascience-machinelearning-activity-6704706360002568192-PA51
+-------
+### > Day 57: The ML Flow UI
+Link: https://www.linkedin.com/posts/chayankathuria_machinelearning-datascience-activity-6705016957927780352-iiaN
 -------
