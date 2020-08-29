@@ -2,7 +2,7 @@
 This is a curated list of all my posts on LinkedIn regarding Data Science, which I publish daily. Hit the star if you like my work!
 --------------
 --------------
-##### Last Updated on: 28th Aug 2020 (Day 57)
+##### Last Updated on: 29th Aug 2020 (Day 58)
 --------------
 --------------
 ## > Day 0: Introducing the Series
@@ -178,4 +178,7 @@ Link: https://www.linkedin.com/posts/chayankathuria_datascience-machinelearning-
 -------
 ### > Day 57: The ML Flow UI
 Link: https://www.linkedin.com/posts/chayankathuria_machinelearning-datascience-activity-6705016957927780352-iiaN
+-------
+### > Day 58: 3 Smartest Python Functions
+Link: https://www.linkedin.com/posts/chayankathuria_python-datascience-machinelearning-activity-6705428241882120192-1dAd
 -------
