@@ -182,6 +182,9 @@ Link: https://www.linkedin.com/posts/chayankathuria_machinelearning-datascience-
 ### > Day 58: 3 Smartest Python Functions
 Link: https://www.linkedin.com/posts/chayankathuria_python-datascience-machinelearning-activity-6705428241882120192-1dAd
 -------
+### > Day 60: Obviously AI
+Link: https://www.linkedin.com/posts/chayankathuria_machinelearning-datascience-activity-6705750593878732800-yViP
+-------
 ### > Day 61: R Squared Vs Adjusted R Squared
 Link: https://www.linkedin.com/posts/chayankathuria_datascience-machinelearning-activity-6706131228317372416-p8p_
 -------
