@@ -2,7 +2,7 @@
 This is a curated list of all my posts on LinkedIn regarding Data Science, which I publish daily. Hit the star if you like my work!
 --------------
 --------------
-##### Last Updated on: 29th Aug 2020 (Day 58)
+##### Last Updated on: 31st Aug 2020 (Day 61)
 --------------
 --------------
 ## > Day 0: Introducing the Series
@@ -181,4 +181,7 @@ Link: https://www.linkedin.com/posts/chayankathuria_machinelearning-datascience-
 -------
 ### > Day 58: 3 Smartest Python Functions
 Link: https://www.linkedin.com/posts/chayankathuria_python-datascience-machinelearning-activity-6705428241882120192-1dAd
+-------
+### > Day 61: R Squared Vs Adjusted R Squared
+Link: https://www.linkedin.com/posts/chayankathuria_datascience-machinelearning-activity-6706131228317372416-p8p_
 -------
