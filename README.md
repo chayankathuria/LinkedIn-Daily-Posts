@@ -2,7 +2,7 @@
 This is a curated list of all my posts on LinkedIn regarding Data Science, which I publish daily. Hit the star if you like my work!
 --------------
 --------------
-##### Last Updated on: 31st Aug 2020 (Day 61)
+##### Last Updated on: 2nd Aug 2020 (Day 63)
 --------------
 --------------
 ## > Day 0: Introducing the Series
@@ -187,4 +187,10 @@ Link: https://www.linkedin.com/posts/chayankathuria_machinelearning-datascience-
 -------
 ### > Day 61: R Squared Vs Adjusted R Squared
 Link: https://www.linkedin.com/posts/chayankathuria_datascience-machinelearning-activity-6706131228317372416-p8p_
+-------
+### > Day 62: What is Predicted R Square?💡
+Link: https://www.linkedin.com/posts/chayankathuria_datascience-machinelearning-activity-6706473991286140928-aAlv
+-------
+### > Day 63: STOP imputing missing values with the MEAN !
+Link: https://www.linkedin.com/posts/chayankathuria_machinelearning-deeplearning-activity-6706809956001206272-dxWf
 -------
