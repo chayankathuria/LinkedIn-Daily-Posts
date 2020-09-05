@@ -2,7 +2,7 @@
 This is a curated list of all my posts on LinkedIn regarding Data Science, which I publish daily. Hit the star if you like my work!
 --------------
 --------------
-##### Last Updated on: 2nd Aug 2020 (Day 63)
+##### Last Updated on: 5th Sep (Day 66)
 --------------
 --------------
 ## > Day 0: Introducing the Series
@@ -194,3 +194,12 @@ Link: https://www.linkedin.com/posts/chayankathuria_datascience-machinelearning-
 ### > Day 63: STOP imputing missing values with the MEAN !
 Link: https://www.linkedin.com/posts/chayankathuria_machinelearning-deeplearning-activity-6706809956001206272-dxWf
 -------
+### > Day 64: How to handle missing values in Test Data
+Link: https://www.linkedin.com/posts/chayankathuria_machinelearning-datascience-activity-6707190817309691904-kbCI
+------
+### > Day 65: What are Python Decorators?
+Link: https://www.linkedin.com/posts/chayankathuria_python-datascience-machinelearning-activity-6707584957142884352-Oul0
+------
+### > Day 66: Binning with Pandas📊🐼
+Link: https://www.linkedin.com/posts/chayankathuria_python-machinelearning-datascience-activity-6707916032620720128-G-IJ
+------
