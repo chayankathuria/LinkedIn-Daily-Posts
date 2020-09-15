@@ -2,7 +2,7 @@
 This is a curated list of all my posts on LinkedIn regarding Data Science, which I publish daily. Hit the star if you like my work!
 --------------
 --------------
-##### Last Updated on: 5th Sep (Day 66)
+##### Last Updated on: 15th Sep (Day 76)
 --------------
 --------------
 ## > Day 0: Introducing the Series
@@ -202,4 +202,34 @@ Link: https://www.linkedin.com/posts/chayankathuria_python-datascience-machinele
 ------
 ### > Day 66: Binning with Pandas📊🐼
 Link: https://www.linkedin.com/posts/chayankathuria_python-machinelearning-datascience-activity-6707916032620720128-G-IJ
+------
+### > Day 67: Logistic Regression is linear or non-linear?🤔
+Link: https://www.linkedin.com/posts/chayankathuria_machinelearning-datascience-activity-6708308645018447872-ghG6
+------
+### > Day 68: A faster way to iterate through DataFrames⚡
+Link: https://www.linkedin.com/posts/chayankathuria_python-datascience-machinelearning-activity-6708675592541270016-XVnA
+------
+### > Day 69: Shallow Copy Vs Deep Copy in Python
+Link: https://www.linkedin.com/posts/chayankathuria_python-datascience-machinelearning-activity-6708998987317358592-YrYy
+------
+### > Day 70: Are tuples really immutable?💡
+Link: https://www.linkedin.com/posts/chayankathuria_python-datascience-activity-6709384535534034944-wlDP
+------
+### > Day 71: What are Namespaces in Python?🤔
+Link: https://www.linkedin.com/posts/chayankathuria_python-datascience-activity-6709727171503550464-lCMH
+------
+### > Day 72: Iterators Vs Generators in Python⚡
+Link: https://www.linkedin.com/posts/chayankathuria_python-datascience-activity-6710091160481796096-XCKx
+------
+### > Day 73: What is difference between == and is ?⚡
+Link: https://www.linkedin.com/posts/chayankathuria_python-datascience-machinelearning-activity-6710460794401820673-qeQ0
+------
+### > Day 74: List and Dictionary Comprehension in Python💡
+Link: https://www.linkedin.com/posts/chayankathuria_python-datascience-machinelearning-activity-6710830017472978944-ZOpr
+------
+### > Day 75: Python statement I hated the most🤯
+Link: https://www.linkedin.com/posts/chayankathuria_python-datascience-activity-6711178540542418944-oblh
+------
+### > Day 76: Are you reading/writing files the right way❓
+Link: https://www.linkedin.com/posts/chayankathuria_python-datascience-activity-6711550161472028672-vAFZ
 ------
