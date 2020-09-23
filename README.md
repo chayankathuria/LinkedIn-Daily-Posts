@@ -2,7 +2,7 @@
 This is a curated list of all my posts on LinkedIn regarding Data Science, which I publish daily. Hit the star if you like my work!
 --------------
 --------------
-##### Last Updated on: 15th Sep (Day 76)
+##### Last Updated on: 23rd Sep (Day 83)
 --------------
 --------------
 ## > Day 0: Introducing the Series
@@ -232,4 +232,25 @@ Link: https://www.linkedin.com/posts/chayankathuria_python-datascience-activity-
 ------
 ### > Day 76: Are you reading/writing files the right way❓
 Link: https://www.linkedin.com/posts/chayankathuria_python-datascience-activity-6711550161472028672-vAFZ
+------
+### > Day 77: Is your Machine Learning model actually learning ?🤔
+Link: https://www.linkedin.com/posts/chayankathuria_datascience-machinelearning-activity-6712266684461305856-JciZ
+------
+### > Day 78: Have you ever used this Python module?⚡
+Link: https://www.linkedin.com/posts/chayankathuria_python-datascience-machinelearning-activity-6712633995684851712-PW_R
+------
+### > Day 79: 3 Sweet Python One Liners
+Link: https://www.linkedin.com/posts/chayankathuria_python-datascience-activity-6713004353134891008-LRyg
+------
+### > Day 80: 3 Statistical concepts you must know
+Link: https://www.linkedin.com/posts/chayankathuria_datascience-machinelearning-statistics-activity-6713360517051797504-ipIM
+------
+### > Day 81: 3 functions that will make you better at NumPy
+Link: https://www.linkedin.com/posts/chayankathuria_python-datascience-machinelearning-activity-6713724148411092992-xxan
+------
+### > Day 82: 3 AutoML libraries that you should know🚀
+Link: https://www.linkedin.com/posts/chayankathuria_python-machinelearning-datascience-activity-6714091582078955520-Iox_
+------
+### > Day 83: 3 Pandas functions I wish I'd known earlier
+Link: https://www.linkedin.com/posts/chayankathuria_machinelearning-datascience-python-activity-6714472715455131648-RvUe
 ------
