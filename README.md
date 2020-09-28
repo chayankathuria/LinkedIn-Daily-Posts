@@ -2,7 +2,7 @@
 This is a curated list of all my posts on LinkedIn regarding Data Science, which I publish daily. Hit the star if you like my work!
 --------------
 --------------
-##### Last Updated on: 23rd Sep (Day 83)
+##### Last Updated on: 28th Sep (Day 88)
 --------------
 --------------
 ## > Day 0: Introducing the Series
@@ -253,4 +253,19 @@ Link: https://www.linkedin.com/posts/chayankathuria_python-machinelearning-datas
 ------
 ### > Day 83: 3 Pandas functions I wish I'd known earlier
 Link: https://www.linkedin.com/posts/chayankathuria_machinelearning-datascience-python-activity-6714472715455131648-RvUe
+------
+### > Day 84: Will AutoML replace Data Scientists?🤔
+Link: https://www.linkedin.com/posts/chayankathuria_machinelearning-datascience-ai-activity-6714807621464977408-9ULV
+------
+### > Day 85: Think Data Visualization? Think Plotly!🚀
+Link: https://www.linkedin.com/posts/chayankathuria_python-machinelearning-datascience-activity-6715193481385578496-lGth
+------
+### > Day 86: The fastest way to create data apps⚡🚀
+Link: https://www.linkedin.com/posts/chayankathuria_python-machinelearning-datascience-activity-6715564223465873408-0a11
+------
+### > Day 87: Say hello to the all new Python 3.9!🚀
+Link: https://www.linkedin.com/posts/chayankathuria_python-datascience-activity-6715904578606415872-0hyl
+------
+### > Day 88: Use your NumPy on Steroids
+Link: https://www.linkedin.com/posts/chayankathuria_python-machinelearning-datascience-activity-6716273038586904576-cOGb
 ------
