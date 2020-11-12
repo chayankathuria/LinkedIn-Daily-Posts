@@ -2,7 +2,7 @@
 This is a curated list of all my posts on LinkedIn regarding Data Science, which I publish daily. Hit the star if you like my work!
 --------------
 --------------
-##### Last Updated on: 28th Sep (Day 88)
+##### List Updated with all 100 posts :)
 --------------
 --------------
 ## > Day 0: Introducing the Series
@@ -268,4 +268,40 @@ Link: https://www.linkedin.com/posts/chayankathuria_python-datascience-activity-
 ------
 ### > Day 88: Use your NumPy on Steroids
 Link: https://www.linkedin.com/posts/chayankathuria_python-machinelearning-datascience-activity-6716273038586904576-cOGb
+------
+### > Day 89:  3 Practices that will make you better at Python🚀
+Link: https://www.linkedin.com/posts/chayankathuria_python-datascience-machinelearning-activity-6716620486027177984-bxsJ
+------
+### > Day 90: The smarter way of exploring missing data🤞
+Link: https://www.linkedin.com/posts/chayankathuria_python-datascience-machinelearning-activity-6717002439372939265-hqdw
+------
+### > Day 91: Difference between Pandas Object & String dtype 🐼
+Link: https://www.linkedin.com/posts/chayankathuria_python-datascience-machinelearning-activity-6717350437953048576-LDB1
+------
+### > Day 92: 3 String operations you should definitely know👇
+Link: https://www.linkedin.com/posts/chayankathuria_python-datascience-machinelearning-activity-6717727621683175424-ghcy
+------
+### > Day 93: Dask for Big Data
+Link: https://www.linkedin.com/posts/chayankathuria_python-machinelearning-datascience-activity-6718069739278651392-FUmm
+------
+### > Day 94: Level up your ML game with this tool!🚀
+Link: https://www.linkedin.com/posts/chayankathuria_python-machinelearning-datascience-activity-6718450402733408256-_OgN
+------
+### > Day 95: 3 Sklearn functions you should know💡
+Link: https://www.linkedin.com/posts/chayankathuria_python-machinelearning-datascience-activity-6718804202753204224-2dux
+------
+### > Day 96: A Machine Learning project template📝
+Link: https://www.linkedin.com/posts/chayankathuria_datascience-machinelearning-activity-6719165172717535232-JiXf
+------
+### > Day 97: 6 Git commands you should know!
+Link: https://www.linkedin.com/posts/chayankathuria_git-datascience-python-activity-6719533086905815040-MRoK
+------
+### > Day 98: What does explainability in ML mean?🤔
+Link: https://www.linkedin.com/posts/chayankathuria_machinelearning-datascience-python-activity-6719891143011700736-qn3q
+------
+### > Day 99: Python meets Marvel💥
+Link: https://www.linkedin.com/posts/chayankathuria_python-datascience-activity-6720253481749401600-kbvy
+------
+### > Day 💯!: What are Docker and Kubernetes?🚀
+Link: https://www.linkedin.com/posts/chayankathuria_machinelearning-datascience-ai-activity-6720602926047399936-04av
 ------
